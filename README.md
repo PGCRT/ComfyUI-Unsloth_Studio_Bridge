@@ -10,8 +10,14 @@ ComfyUI nodes that connect to the model currently loaded in
 
 ## Install
 
-Clone into `ComfyUI/custom_nodes/`, or install from the ComfyUI registry /
-Manager. No extra Python packages are needed.
+Clone into `ComfyUI/custom_nodes/` and restart ComfyUI:
+
+```bash
+cd ComfyUI/custom_nodes
+git clone https://github.com/PGCRT/ComfyUI-Unsloth_Studio_Bridge
+```
+
+No extra Python packages are needed.
 
 ## Nodes
 
