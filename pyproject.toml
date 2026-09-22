@@ -1,0 +1,8 @@
+[project]
+name = "comfyui-unsloth-studio-bridge"
+description = "ComfyUI nodes that connect to the model loaded in Unsloth Studio"
+version = "1.0.0"
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/PGCRT/ComfyUI-Unsloth_Studio_Bridge"
