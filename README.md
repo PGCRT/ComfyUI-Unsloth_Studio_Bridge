@@ -8,6 +8,10 @@ ComfyUI nodes that connect to the model currently loaded in
 > packaging and will be re-merged into CRT-Nodes. Prefer CRT-Nodes once the
 > nodes are back there.
 
+## Demo
+
+[![Unsloth Studio Bridge demo](Demo/Demo_poster.jpg)](Demo/Demo.mp4)
+
 ## Install
 
 Clone into `ComfyUI/custom_nodes/` and restart ComfyUI:
@@ -46,6 +50,12 @@ and live thinking output. Outputs the answer as a `STRING`.
 
 Output-less live viewer. Add it anywhere in the workflow and it shows the
 bridge's thinking in real time with tok/s and token counts. Nothing to wire up.
+
+## Example workflow
+
+[`example_workflows/Unsloth_Studio_Bridge.json`](example_workflows/Unsloth_Studio_Bridge.json)
+connects the bridge to a `PreviewAny` output and the Thinking Display node.
+Drag the file into ComfyUI to load it.
 
 ## Connecting
 
