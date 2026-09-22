@@ -77,7 +77,9 @@ appended to the system prompt as extra context.
 
 ## Requirements
 
-- Unsloth Studio running with a model loaded. Image input needs a vision model.
+- Unsloth Studio running with a model loaded. Image input needs a vision model,
+  and the Thinking Display needs a thinking model (a non-reasoning model leaves
+  it empty).
 - ComfyUI; no extra dependencies.
 
 ## Links
