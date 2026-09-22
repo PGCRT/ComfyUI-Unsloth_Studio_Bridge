@@ -10,7 +10,7 @@ ComfyUI nodes that connect to the model currently loaded in
 
 ## Demo
 
-[![Unsloth Studio Bridge demo](Demo/Demo_poster.jpg)](Demo/Demo.mp4)
+<video src="https://github.com/user-attachments/assets/536a9c73-df30-44e4-8ea2-af6d211e2163" controls></video>
 
 ## Install
 
